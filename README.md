@@ -8,7 +8,7 @@ Hi, I'm Aneena Manoj!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PhD+Computer+Science+Student;Quantum+computing+%7C+AIML+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MS+Computer+Science+Student;AI | ML | NLP + Enthusiast;Java+Developer" alt="Typing SVG" /></a>
 
 <hr/>
 <!-- [![](https://raw.githubusercontent.com/aneena-manoj/aneena-manoj/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/aneena-manoj/) -->
