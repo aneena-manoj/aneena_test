@@ -1,8 +1,8 @@
 <h1 align="center">
-Hi, I'm Edwin Jose!
+Hi, I'm Aneena Manoj!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=edwinjosechittilappilly&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="edwinjosechittilappilly" />
-<!--  <img src="https://gpvc.arturio.dev/edwinjosechittilappilly" alt="Profile views" align='right'/> <a href="https://github.com/edwinjosechittilappilly/edwinjosechittilappilly/"> </a> update  -->
+ <img src="https://komarev.com/ghpvc/?username=aneena-manoj&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="aneena-manoj" />
+<!--  <img src="https://gpvc.arturio.dev/aneena-manoj" alt="Profile views" align='right'/> <a href="https://github.com/aneena-manoj/aneena-manoj/"> </a> update  -->
 
 <br/>
 
@@ -11,8 +11,8 @@ Hi, I'm Edwin Jose!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PhD+Computer+Science+Student;Quantum+computing+%7C+AIML+Enthusiast" alt="Typing SVG" /></a>
 
 <hr/>
-<!-- [![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/edwinjosechittilappilly/) -->
- <img src="https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg" align='center' alt="edwinjosechittilappilly" />
+<!-- [![](https://raw.githubusercontent.com/aneena-manoj/aneena-manoj/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/aneena-manoj/) -->
+ <img src="https://raw.githubusercontent.com/aneena-manoj/aneena-manoj/master/profile-summary-card-output/nord_bright/0-profile-details.svg" align='center' alt="aneena-manoj" />
  </p>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
@@ -23,7 +23,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinjosechittilappilly&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aneena-manoj&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
@@ -92,8 +92,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edwinjosechittilappilly&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjosechittilappilly&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aneena-manoj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneena-manoj&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -102,9 +102,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=edwinjosechittilappilly&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aneena-manoj&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
    
-<!--    [![Edwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinjosechittilappilly)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!--    [![Edwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aneena-manoj)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
    </a>
   <br/>
 </details>
@@ -114,18 +114,18 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://edwinjosechittilappilly.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/edwinjosechittilappilly" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/edwinjosechittilappilly/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/edwinjosechittilappilly/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/edwinjosechittilappilly/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://aneena-manoj.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/aneena-manoj" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/aneena-manoj/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/aneena-manoj/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/aneena-manoj/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:edwinjose900@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
 
 
 
-[![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/edwinjosechittilappilly/) [![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/edwinjosechittilappilly/)
-[![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/edwinjosechittilappilly/) [![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/edwinjosechittilappilly/)
+[![](https://raw.githubusercontent.com/aneena-manoj/aneena-manoj/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/aneena-manoj/) [![](https://raw.githubusercontent.com/aneena-manoj/aneena-manoj/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/aneena-manoj/)
+[![](https://raw.githubusercontent.com/aneena-manoj/aneena-manoj/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/aneena-manoj/) [![](https://raw.githubusercontent.com/aneena-manoj/aneena-manoj/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/aneena-manoj/)
 
 
